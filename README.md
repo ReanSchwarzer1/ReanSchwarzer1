@@ -11,30 +11,31 @@ And all of these in culmination will probably allow me (I hope so), to open my o
 
 Thanks for reading this long introduction :D 
 
+
 ## You can find me at 👨
-<br>
+<p>
 <a href="https://www.linkedin.com/in/adhiraj-bhagawati-b86426149/">
 <img src="https://img.shields.io/badge/linkedin-%233776AB.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</br>
+</p>
 
-<br>
+<p>
 <a href="https://steamcommunity.com/profiles/76561198855310855/">
 <img src="https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam" /> 
 </a>
-</br>
+</p>
 
-<br>
+<p>
 <a href="https://twitter.com/AlexAdhiraj">
 <img src="https://img.shields.io/badge/twitter-follow%20me-%233498DB.svg?&style=for-the-badge&logo=twitter" /> 
 </a>
-</br>
+</p>
 
-<br>
+<p>
 <a href="https://www.instagram.com/reanschwarzer/">
 <img src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram" /> 
 </a>
-</br>
+</p>
 
 
 <!--
