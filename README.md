@@ -11,29 +11,31 @@ And all of these in culmination will probably allow me (I hope so), to open my o
 
 Thanks for reading this long introduction :D 
 
+<img align="left" alt="ReanSchwarzer1's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReanSchwarzer1&theme=dracula&hide=css,c%23" />
 
-## You can find me at 👨
+
+## Connect with me <img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <p>
 <a href="https://www.linkedin.com/in/adhiraj-bhagawati-b86426149/">
-<img src="https://img.shields.io/badge/linkedin-%233776AB.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img align="left" img src="https://img.shields.io/badge/linkedin-%233776AB.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
 <p>
 <a href="https://steamcommunity.com/profiles/76561198855310855/">
-<img src="https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam" /> 
+<img align="left" img src="https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam" /> 
 </a>
 </p>
 
 <p>
 <a href="https://twitter.com/AlexAdhiraj">
-<img src="https://img.shields.io/badge/twitter-follow%20me-%233498DB.svg?&style=for-the-badge&logo=twitter" /> 
+<img align="left" img src="https://img.shields.io/badge/twitter-follow%20me-%233498DB.svg?&style=for-the-badge&logo=twitter" /> 
 </a>
 </p>
 
 <p>
 <a href="https://www.instagram.com/reanschwarzer/">
-<img src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram" /> 
+<img align="left" img src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram" /> 
 </a>
 </p>
 
