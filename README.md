@@ -39,7 +39,6 @@ Thanks for reading this long introduction :D
 
 ## Gotta improve my stats!
 <img align="left" alt="ReanSchwarzer1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ReanSchwarzer1&show_icons=true&&theme=radical" />
-<img align="right" alt="ReanSchwarzer1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReanSchwarzer1&show_icons=true&&theme=radical" />
 
 <!--
 **ReanSchwarzer1/ReanSchwarzer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
