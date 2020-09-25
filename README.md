@@ -13,6 +13,7 @@ Thanks for reading this long introduction :D
 
 ## Languages and Tools
 
+<img align="left" alt="Unity" width="26px" src="https://icon-library.net//images/unity-icon-png/unity-icon-png-6.jpg" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/26/000000/python.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://api.iconify.design/logos-tensorflow.svg" />
 <img align="left" alt="Keras" width="26px" src="https://img.stackshare.io/service/5601/keras.png" />
