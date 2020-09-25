@@ -53,7 +53,7 @@ Thanks for reading this long introduction :D
 </p>
 
 <p>
-<a href="https://www.instagram.com/reanschwarzer/">
+<a href="https://www.instagram.com/_reanschwarzer_/">
 <img src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram" /> 
 </a>
 </p>
