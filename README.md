@@ -19,7 +19,7 @@ Thanks for reading this long introduction :D
 <img align="left" alt="Tensorflow" width="26px" src="https://api.iconify.design/logos-tensorflow.svg" />
 <img align="left" alt="Keras" width="26px" src="https://img.stackshare.io/service/5601/keras.png" />
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-<img align="left" alt="C#" width="26px" src="<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />" 
+<img align="left" alt="C#" width="26px" src="<img src="<a href="https://icons8.com/icon/55251/c-sharp-logo" />" 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
