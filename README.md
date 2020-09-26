@@ -14,7 +14,7 @@ Thanks for reading this long introduction :D
 ## Languages and Tools
 
 <img align="left" alt="Unreal" width="35px" src="https://icon-library.net//images/unreal-engine-4-icon/unreal-engine-4-icon-13.jpg" />
-<img align="left" alt="Unity" width="35px" src="https://icon-library.net//images/unity-icon-png/unity-icon-png-3.jpg" />
+<img align="left" alt="Unity" width="35px" src="https://icon-library.net//images/unity-icon/unity-icon-26.jpg" />
 <img align="left" alt="Python" width="35px" src="https://icon-library.net//images/icon-python/icon-python-16.jpg" />
 <img align="left" alt="Tensorflow" width="35px" src="https://api.iconify.design/logos-tensorflow.svg" />
 <img align="left" alt="Keras" width="35px" src="https://img.stackshare.io/service/5601/keras.png" />
