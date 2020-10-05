@@ -3,7 +3,7 @@
 </p>
 
 
-### I am Adhiraj Bhagawati. I am currently pursuing a Bachelor's degree in Computer Science at <br><a href="https://www.srmist.edu.in/">SRM Institute of Science and Technology</a>.</br>
+### I am currently pursuing a Bachelor's degree in Computer Science at <br><a href="https://www.srmist.edu.in/">SRM Institute of Science and Technology</a>.</br>
 ### My Portfolio: https://reanadhiraj.now.sh/
 
 ## Stuff about me 🎮🕹
