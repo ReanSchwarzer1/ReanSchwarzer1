@@ -63,6 +63,8 @@ Thanks for reading this long introduction :D
 </a>
 </p>
 
+
+<!--
 ## Gotta improve my stats!
 <img align="left" alt="ReanSchwarzer1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ReanSchwarzer1&show_icons=true&&theme=radical" />
 
