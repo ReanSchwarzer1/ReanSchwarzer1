@@ -38,7 +38,7 @@ Thanks for reading this long introduction :D
 <br />
 
 
-<h2 align="center">  Connect with me! </h2><img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<h2 align="center">  Connect with me! <img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></h2>
 <p>
 <a href="https://www.linkedin.com/in/adhiraj-bhagawati-b86426149/">
 <img src="https://img.shields.io/badge/linkedin-%233776AB.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
