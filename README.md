@@ -20,7 +20,7 @@ And all of these in culmination will probably allow me (I hope so), to open my o
 
 Thanks for reading this long introduction :D 
 
-## Languages and Tools
+<h2 align="center">  Languages and Tools </h2>
 
 <img align="left" alt="Unreal" width="35px" src="https://icon-library.net//images/unreal-engine-4-icon/unreal-engine-4-icon-13.jpg" />
 <img align="left" alt="Unity" width="35px" src="https://icon-library.net//images/unity-icon/unity-icon-26.jpg" />
@@ -38,12 +38,7 @@ Thanks for reading this long introduction :D
 <br />
 
 
-
-
-
-
-
-## Connect with me <img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<h2 align="center">  Connect with me! </h2><img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <p>
 <a href="https://www.linkedin.com/in/adhiraj-bhagawati-b86426149/">
 <img src="https://img.shields.io/badge/linkedin-%233776AB.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
