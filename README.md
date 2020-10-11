@@ -9,7 +9,9 @@
   
 <h2 align="center">  My Portfolio: https://reanadhiraj.now.sh/</h2>
 
-## Stuff about me 🎮🕹
+
+<h2 align="center">  Stuff about me 🎮🕹 </h2>
+
 I currently have experience in Game Development / Game Design & Mixed Reality using Unity and Unreal Engine and have made researched and completed several projects.
 I also have proper experience in Marketing and Management, because just being a tech-head probably won't get me (very) high up the corporate ladder. In the process of having a bit of basic-intermediate experience in Machine Learning.
 
