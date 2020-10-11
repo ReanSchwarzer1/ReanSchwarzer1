@@ -5,10 +5,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1 align="center"> I am currently pursuing a Bachelor's degree in Computer Science at <br><a href="https://www.srmist.edu.in/">SRM Institute of Science and Technology</a>.</h1> 
-
-### I am currently pursuing a Bachelor's degree in Computer Science at <br><a href="https://www.srmist.edu.in/">SRM Institute of Science and Technology</a>.</br>
-### My Portfolio: https://reanadhiraj.now.sh/
+<h2 align="center"> I am currently pursuing a Bachelor's degree in Computer Science at <br><a href="https://www.srmist.edu.in/">SRM Institute of Science and Technology</a>.</h2>
+  
+<h2 align="center">  My Portfolio: https://reanadhiraj.now.sh/</h2>
 
 ## Stuff about me 🎮🕹
 I currently have experience in Game Development / Game Design & Mixed Reality using Unity and Unreal Engine and have made researched and completed several projects.
