@@ -28,11 +28,11 @@ Thanks for reading this long introduction :D
 <img align="left" alt="Tensorflow" width="25px" src="https://api.iconify.design/logos-tensorflow.svg" />
 <img align="left" alt="Keras" width="25px" src="https://img.stackshare.io/service/5601/keras.png" />
 <img align="left" alt="C++" width="25px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-<img align="left" alt="C#" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1024px-C_Sharp_logo.svg.png" />
+<img align="left" alt="C#" width="25px" src="https://mpng.subpng.com/20180531/qfb/kisspng-c-programming-basics-for-absolute-beginners-comp-5b106126687fa9.960696831527800102428.jpg" />
 <img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="25px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />
 
 <br />
 <br />
