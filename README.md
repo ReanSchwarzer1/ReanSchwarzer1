@@ -14,13 +14,8 @@ I completed my B.Tech (Bachelor of Technology) in Computer Science from <br><a h
 
 <h2 align="center">  Stuff about me 🎮🕹 </h2>
 
-I currently have experience in Game Development / Game Design & Mixed Reality using Unity and Unreal Engine and have made researched and completed several projects.
-I also have proper experience in Marketing and Management, because just being a tech-head probably won't get me (very) high up the corporate ladder. In the process of having a bit of basic-intermediate experience in Machine Learning.
-
-I want to focus on these skill-sets properly so I can have multiple opportunities in the future and be able to understand the corporate world from both a "Technical and Non-Technical" viewpoint.
-And all of these in culmination will probably allow me (I hope so), to open my own Game Development Studio in the future. So, I am desperately trying to work towards my ideal self.
-
-Thanks for reading this long introduction :D 
+IDK anymore, I just wanna work in the AAA game industry as a game designer now 
+  Gimme a job pls ;_;
 
 <h2 align="center">  Languages and Tools </h2>
 
