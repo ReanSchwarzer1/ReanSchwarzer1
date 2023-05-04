@@ -8,8 +8,7 @@
 <h2 align="center">I am currently pursuing my MS (Master of Science) in Game Design and Development from <br><a href="https://www.rit.edu/">Rochester Institute of Technology</a>.</br>
 I completed my B.Tech (Bachelor of Technology) in Computer Science from <br><a href="https://www.srmist.edu.in/">SRM Institute of Science and Technology</a>. I have also atteded the <br><a href="https://www.ucdavis.edu/">University of California, Davis</a> as a exchange student for my 7th semester. Apart from that, I have completed bridge-level courses from <br><a href="https://www.asia.edu.tw/">Asia University, Taiwan</a> in Artificial Intelligence and <br><a href="https://www.xamk.fi/en/frontpage/">Xamk - South Eastern Finland University of Applied Sciences</a> in Game Design and Production.</h2>
   
-<h2 align="center">  My Portfolio: https://reanadhiraj.now.sh/</h2>
-<h2 align="center">  New Portfolio: https://adhiraj-game.now.sh/</h2>
+<h2 align="center"> Portfolio: https://adhiraj-game.now.sh/</h2>
 
 
 <h2 align="center">  Stuff about me 🎮🕹 </h2>
