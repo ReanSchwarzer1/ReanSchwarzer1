@@ -26,9 +26,6 @@ I completed my B.Tech (Bachelor of Technology) in Computer Science from <br><a h
 <a href="https://steamcommunity.com/profiles/76561198855310855/">
 <img src="https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam" /> 
 </a>
-<a href="https://twitter.com/AlexAdhiraj">
-<img src="https://img.shields.io/badge/twitter-follow%20me-%233498DB.svg?&style=for-the-badge&logo=twitter" /> 
-</a>
 <a href="https://www.instagram.com/_reanschwarzer_/">
 <img src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram" /> 
 </a>
