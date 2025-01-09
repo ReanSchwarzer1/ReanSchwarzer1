@@ -5,59 +5,36 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2 align="center">I am currently pursuing my MS (Master of Science) in Game Design and Development from <br><a href="https://www.rit.edu/">Rochester Institute of Technology</a>.</br>
-I completed my B.Tech (Bachelor of Technology) in Computer Science from <br><a href="https://www.srmist.edu.in/">SRM Institute of Science and Technology</a>. I have also atteded the <br><a href="https://www.ucdavis.edu/">University of California, Davis</a> as a exchange student for my 7th semester. Apart from that, I have completed bridge-level courses from <br><a href="https://www.asia.edu.tw/">Asia University, Taiwan</a> in Artificial Intelligence and <br><a href="https://www.xamk.fi/en/frontpage/">Xamk - South Eastern Finland University of Applied Sciences</a> in Game Design and Production.</h2>
-  
-<h2 align="center"> Portfolio: https://adhiraj-game.now.sh/</h2>
+<h2 align="center">I recently graduated with an MS (Master of Science) in Game Design and Development from <br><a href="https://www.rit.edu/">Rochester Institute of Technology</a>.</br>
+I completed my B.Tech (Bachelor of Technology) in Computer Science from <br><a href="https://www.srmist.edu.in/">SRM Institute of Science and Technology</a>. During my studies, I attended <br><a href="https://www.ucdavis.edu/">University of California, Davis</a> as an exchange student for my 7th semester. Additionally, I pursued bridge-level courses in Artificial Intelligence at <br><a href="https://www.asia.edu.tw/">Asia University, Taiwan</a>, and in Game Design and Production at <br><a href="https://www.xamk.fi/en/frontpage/">Xamk - South Eastern Finland University of Applied Sciences</a>.</h2>
 
+<h2 align="center"> Portfolio: <a href="https://adhiraj-game.now.sh/">adhiraj-game.now.sh</a></h2>
 
-<h2 align="center">  Stuff about me 🎮🕹 </h2>
+<h2 align="center">About Me 🎮🕹</h2>
+<ul>
+<li>I showcased my master's capstone game at GDC 2024, where I connected with industry professionals and peers.</li>
+<li>I'm passionate about blending emerging technologies (like AR/VR/XR) with innovative game design to push creative boundaries.</li>
+<li>Currently, I aim to make a significant impact in the AAA game industry as a Game Designer. Feel free to check out my Starfield mod with procedural generation tweaks <a href="https://www.nexusmods.com/starfield/mods/7831">here</a>!</li>
+<li>Fun Fact: I wear photochromatic glasses that turn into sunglasses in direct sunlight. 😎</li>
+</ul>
 
-IDK anymore, I just wanna work in the AAA game industry as a game designer now 
-  Gimme a job pls ;_;
-
-<h2 align="center">  Languages and Tools </h2>
-
-<img align="left" alt="Unreal" width="25px" src="https://icon-library.net//images/unreal-engine-4-icon/unreal-engine-4-icon-13.jpg" />
-<img align="left" alt="Unity" width="25px" src="https://icon-library.net//images/unity-icon/unity-icon-26.jpg" />
-<img align="left" alt="Python" width="25px" src="https://icon-library.net//images/icon-python/icon-python-16.jpg" />
-<img align="left" alt="Tensorflow" width="25px" src="https://api.iconify.design/logos-tensorflow.svg" />
-<img align="left" alt="Keras" width="25px" src="https://img.stackshare.io/service/5601/keras.png" />
-<img align="left" alt="C++" width="25px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-<img align="left" alt="C#" width="25px" src="https://mpng.subpng.com/20180531/qfb/kisspng-c-programming-basics-for-absolute-beginners-comp-5b106126687fa9.960696831527800102428.jpg" />
-<img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="GitHub" width="25px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />
-
-<br />
-<br />
-
-
-<h2 align="center">  Connect with me! <img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></h2>
-<p>
+<h2 align="center">Connect with Me! 🌐</h2>
+<p align="center">
 <a href="https://www.linkedin.com/in/adhiraj-bhagawati-b86426149/">
 <img src="https://img.shields.io/badge/linkedin-%233776AB.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</p>
-
-<p>
 <a href="https://steamcommunity.com/profiles/76561198855310855/">
 <img src="https://img.shields.io/badge/Steam-play%20with%20me-%23000000.svg?&style=for-the-badge&logo=steam" /> 
 </a>
-</p>
-
-<p>
 <a href="https://twitter.com/AlexAdhiraj">
 <img src="https://img.shields.io/badge/twitter-follow%20me-%233498DB.svg?&style=for-the-badge&logo=twitter" /> 
 </a>
-</p>
-
-<p>
 <a href="https://www.instagram.com/_reanschwarzer_/">
 <img src="https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=for-the-badge&logo=instagram" /> 
 </a>
 </p>
+</body>
+</html>
 
 
 <!--
